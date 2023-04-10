@@ -1,0 +1,15 @@
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.csproj.AssemblyReference.cache
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.AssemblyInfoInputs.cache
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.AssemblyInfo.cs
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.csproj.CoreCompileInputs.cache
+D:\FHomeWork11\Task68\bin\Debug\net7.0\Task68.exe
+D:\FHomeWork11\Task68\bin\Debug\net7.0\Task68.deps.json
+D:\FHomeWork11\Task68\bin\Debug\net7.0\Task68.runtimeconfig.json
+D:\FHomeWork11\Task68\bin\Debug\net7.0\Task68.dll
+D:\FHomeWork11\Task68\bin\Debug\net7.0\Task68.pdb
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.dll
+D:\FHomeWork11\Task68\obj\Debug\net7.0\refint\Task68.dll
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.pdb
+D:\FHomeWork11\Task68\obj\Debug\net7.0\Task68.genruntimeconfig.cache
+D:\FHomeWork11\Task68\obj\Debug\net7.0\ref\Task68.dll
